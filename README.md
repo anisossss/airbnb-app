@@ -14,6 +14,8 @@
 
 ### ✨ [Live Demo](https://)
 
+![Screenshot](screenshot.png)
+
 ## Getting Started 
 
 In the project directory, you can run:
